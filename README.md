@@ -1,2 +1,2 @@
 # python_courses
-Various Python Courses
+Estrutura de Dados e Algoritmos em Python
